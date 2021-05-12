@@ -14,6 +14,8 @@ the header to access the API movie data. The default API token is **_q1w2e3r4t5_
 
 ## Screenshots of testing APIs
 
+![GET MOVIES](img/getmovies.PNG "Philadelphia's Magic Gardens")
+
 
 ## License
 
